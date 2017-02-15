@@ -1,0 +1,10 @@
+insert into T_USER (ID, FIRST_NAME,LAST_NAME) values (1, 'Mohamed','Saeed');
+insert into T_USER (ID, FIRST_NAME,LAST_NAME) values (2, 'Adam','Mohamed');
+insert into T_USER (ID, FIRST_NAME,LAST_NAME) values (3, 'Imran','Sarwar');
+insert into T_USER (ID, FIRST_NAME,LAST_NAME) values (4, 'Thomas','Garben');
+insert into T_USER (ID, FIRST_NAME,LAST_NAME) values (5, 'Ahmed','Youesf');
+insert into T_USER (ID, FIRST_NAME,LAST_NAME) values (6, 'Mark','Jack');
+insert into T_USER (ID, FIRST_NAME,LAST_NAME) values (7, 'Suzanne','Wang');
+insert into T_USER (ID, FIRST_NAME,LAST_NAME) values (8, 'Ivan','Jaya');
+insert into T_USER (ID, FIRST_NAME,LAST_NAME) values (9, 'Nouh','Adam');
+insert into T_USER (ID, FIRST_NAME,LAST_NAME) values (10, 'Laina','Steward');

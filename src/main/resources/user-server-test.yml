@@ -1,0 +1,13 @@
+# Spring Properties
+spring:
+  application:
+     name: user-service
+
+# Discovery Server Access
+eureka:
+  client:
+    enabled: false
+
+# HTTP Server
+server:
+  port: 4444   # HTTP (Tomcat) port
